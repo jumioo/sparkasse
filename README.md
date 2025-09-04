@@ -31,4 +31,4 @@ Edit the search query in the main file to your specific Sparkasse Filiale or Ban
 
 ### Showcase
 
-![Showcase](https://i.ibb.co/gZLwP2b6/Bildschirmaufnahme-2025-09-04-um-14-00-05.gif)
+![Showcase](https://i.ibb.co/nMNfnGqR/Bildschirmaufnahme-2025-09-04-um-14-00-05.gif)
